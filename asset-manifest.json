@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pan-daniel.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pan-daniel.github.io/static/js/main.7bf002a5.chunk.js",
+    "main.js.map": "/pan-daniel.github.io/static/js/main.7bf002a5.chunk.js.map",
+    "runtime-main.js": "/pan-daniel.github.io/static/js/runtime-main.392aecca.js",
+    "runtime-main.js.map": "/pan-daniel.github.io/static/js/runtime-main.392aecca.js.map",
+    "static/js/2.e987f134.chunk.js": "/pan-daniel.github.io/static/js/2.e987f134.chunk.js",
+    "static/js/2.e987f134.chunk.js.map": "/pan-daniel.github.io/static/js/2.e987f134.chunk.js.map",
+    "static/js/3.007edbc4.chunk.js": "/pan-daniel.github.io/static/js/3.007edbc4.chunk.js",
+    "static/js/3.007edbc4.chunk.js.map": "/pan-daniel.github.io/static/js/3.007edbc4.chunk.js.map",
+    "index.html": "/pan-daniel.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pan-daniel.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e987f134.chunk.js.LICENSE.txt": "/pan-daniel.github.io/static/js/2.e987f134.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pan-daniel.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.392aecca.js",
+    "static/js/2.e987f134.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7bf002a5.chunk.js"
+  ]
+}
