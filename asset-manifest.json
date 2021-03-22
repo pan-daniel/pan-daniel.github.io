@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pan-daniel.github.io/static/css/main.3dd34f15.chunk.css",
-    "main.js": "/pan-daniel.github.io/static/js/main.10690c6c.chunk.js",
-    "main.js.map": "/pan-daniel.github.io/static/js/main.10690c6c.chunk.js.map",
+    "main.js": "/pan-daniel.github.io/static/js/main.c43c4047.chunk.js",
+    "main.js.map": "/pan-daniel.github.io/static/js/main.c43c4047.chunk.js.map",
     "runtime-main.js": "/pan-daniel.github.io/static/js/runtime-main.5c99245a.js",
     "runtime-main.js.map": "/pan-daniel.github.io/static/js/runtime-main.5c99245a.js.map",
     "static/css/2.96f48c4e.chunk.css": "/pan-daniel.github.io/static/css/2.96f48c4e.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.96f48c4e.chunk.css",
     "static/js/2.82a215fa.chunk.js",
     "static/css/main.3dd34f15.chunk.css",
-    "static/js/main.10690c6c.chunk.js"
+    "static/js/main.c43c4047.chunk.js"
   ]
 }
