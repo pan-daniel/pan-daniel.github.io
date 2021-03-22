@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/pan-daniel.github.io/static/css/main.3dd34f15.chunk.css",
-    "main.js": "/pan-daniel.github.io/static/js/main.c34f85fb.chunk.js",
-    "main.js.map": "/pan-daniel.github.io/static/js/main.c34f85fb.chunk.js.map",
+    "main.js": "/pan-daniel.github.io/static/js/main.b46a7335.chunk.js",
+    "main.js.map": "/pan-daniel.github.io/static/js/main.b46a7335.chunk.js.map",
     "runtime-main.js": "/pan-daniel.github.io/static/js/runtime-main.5c99245a.js",
     "runtime-main.js.map": "/pan-daniel.github.io/static/js/runtime-main.5c99245a.js.map",
     "static/css/2.96f48c4e.chunk.css": "/pan-daniel.github.io/static/css/2.96f48c4e.chunk.css",
-    "static/js/2.a08a5776.chunk.js": "/pan-daniel.github.io/static/js/2.a08a5776.chunk.js",
-    "static/js/2.a08a5776.chunk.js.map": "/pan-daniel.github.io/static/js/2.a08a5776.chunk.js.map",
+    "static/js/2.82a215fa.chunk.js": "/pan-daniel.github.io/static/js/2.82a215fa.chunk.js",
+    "static/js/2.82a215fa.chunk.js.map": "/pan-daniel.github.io/static/js/2.82a215fa.chunk.js.map",
     "static/js/3.78fd497f.chunk.js": "/pan-daniel.github.io/static/js/3.78fd497f.chunk.js",
     "static/js/3.78fd497f.chunk.js.map": "/pan-daniel.github.io/static/js/3.78fd497f.chunk.js.map",
     "index.html": "/pan-daniel.github.io/index.html",
     "static/css/2.96f48c4e.chunk.css.map": "/pan-daniel.github.io/static/css/2.96f48c4e.chunk.css.map",
     "static/css/main.3dd34f15.chunk.css.map": "/pan-daniel.github.io/static/css/main.3dd34f15.chunk.css.map",
-    "static/js/2.a08a5776.chunk.js.LICENSE.txt": "/pan-daniel.github.io/static/js/2.a08a5776.chunk.js.LICENSE.txt",
+    "static/js/2.82a215fa.chunk.js.LICENSE.txt": "/pan-daniel.github.io/static/js/2.82a215fa.chunk.js.LICENSE.txt",
     "static/media/Home.module.css": "/pan-daniel.github.io/static/media/home-bg.dc52d5d4.jpg",
     "static/media/logo.68482832.png": "/pan-daniel.github.io/static/media/logo.68482832.png",
     "static/media/my-face.25535db4.jpg": "/pan-daniel.github.io/static/media/my-face.25535db4.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.5c99245a.js",
     "static/css/2.96f48c4e.chunk.css",
-    "static/js/2.a08a5776.chunk.js",
+    "static/js/2.82a215fa.chunk.js",
     "static/css/main.3dd34f15.chunk.css",
-    "static/js/main.c34f85fb.chunk.js"
+    "static/js/main.b46a7335.chunk.js"
   ]
 }
